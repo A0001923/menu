@@ -1,0 +1,82 @@
+
+@media(max-width: 1200px){
+}
+
+@media(max-width: 991px){
+}
+
+@media(max-width: 767px){
+}
+
+@media(max-width: 600px){
+}
+
+@media(max-width: 499px){
+    .osnovnoy{
+        font-size: 20px;
+    }
+    .obed{
+        font-size: 20px;
+    }
+    .nochnoy{
+        font-size: 20px;
+    }
+    .special{
+        font-size: 20px;
+    }
+}
+
+@media(max-width: 450px){
+    .footer-h1{
+        font-size: 25px;
+    }
+    .footer-h2{
+        font-size: 25px;
+    }
+    .footer-h3{
+        font-size: 25px;
+    }
+    .footer-h4{
+        font-size: 25px;
+    }
+    .section-25-h1{
+        font-size: 25px;
+    }
+    .section-25-h2{
+        font-size: 25px;
+    }
+    .section-25-p{
+        font-size: 20px;
+    }
+}
+
+@media(max-width: 410px){
+    .footer-h1{
+        font-size: 20px;
+    }
+    .footer-h2{
+        font-size: 20px;
+    }
+    .footer-h3{
+        font-size: 20px;
+    }
+    .footer-h4{
+        font-size: 20px;
+    }
+    .osnovnoy{
+        font-size: 16px;
+    }
+    .obed{
+        font-size: 16px;
+    }
+    .nochnoy{
+        font-size: 16px;
+    }
+    .special{
+        font-size: 16px;
+    }
+}
+
+@media(max-width: 320px){
+}
+

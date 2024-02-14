@@ -1,0 +1,660 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body{
+    min-width: 320px;
+}
+
+h1,h2,h3,h4,h5,h6,p,ul,li,a{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+/**** INDEX.HTML *****/
+
+.top{
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    border: 1px solid #fff;
+    background: #ffb6c100;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 15px;
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    cursor: pointer;
+}
+
+.html{
+    height: 935px;
+    background-position: center center;
+    background-image: url(https://optim.tildacdn.com/tild3830-3130-4032-b863-653965386138/-/format/webp/IMG_4868_1x1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.osnovnoy{
+    background: #2a06ad4b;
+    color: #fff;
+    padding: 40px 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;   
+    margin-bottom: 20px; 
+}
+
+.obed{
+    background: #3000df94;
+    color: #fff;
+    padding: 40px 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;    
+    margin-bottom: 20px;
+}
+
+.nochnoy{
+    background: #a7aa0293;
+    color: #fff;
+    padding: 40px 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;    
+    margin-bottom: 20px;
+}
+
+.special{
+    background: #0024f39a;
+    color: #fff;
+    padding: 40px 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;    
+}
+
+
+/* ************************************************************************************************************************ */
+/* header */
+
+header{
+    background: #1414ddbe;
+}
+
+.dropdown-menu{
+    background: #3636f1be;
+}
+
+/* ************************************************************************************************************************ */
+/****** section-1 ******/
+
+.section-1{
+    background: orange;
+    height: 100%;
+    padding: 60px;
+}
+
+.section-1h1{
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.sirniki{
+    justify-content: space-between;
+    text-align: center;
+}
+
+.section-1-img{
+    width: 100%;
+}
+
+.section-1img{
+    width: 100%;
+    height: 100%;
+}
+
+.section-1-h1{
+    font-size: 15px;
+    color: #363636;
+    font-family: 'FontOver';
+    font-weight: 600;
+}
+
+.section-1-h2{
+    font-size: 15px;
+    color: #363636;
+    font-family: 'FontOver';
+    margin-bottom: 3px;
+}
+
+.section-1-p{
+    font-size: 14px;
+    color: #363636;
+    font-family: 'FontOver';
+    text-align: center;
+}
+
+.section-1p{
+    font-size: 14px;
+    color: #363636;
+    font-family: 'FontOver';
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.section-1-₽{
+    font-size: 16px;
+    color: #000;
+    font-family: 'FontOver';
+}
+
+/* ************************************************************************************************************************ */
+/****** section-2 ******/
+
+.section-2{
+    background: lightpink;
+}
+
+.section-2-img{
+    width: 100%;
+}
+
+.section-2h1{
+    font-size: 40px;
+    color: #fff;
+    padding-top: 40px;
+    text-align: center;
+}
+
+.section-2-h1{
+    font-size: 15px;
+    color: #363636;
+    font-family: 'FontOver';
+    font-weight: 600;
+    text-align: center;
+}
+
+.section-2p{
+    font-size: 14px;
+    color: #363636;
+    font-family: 'FontOver';
+    margin-top: 4px;
+    margin-bottom: 4px;
+    text-align: center;
+}
+
+.section-2-₽{
+    font-size: 19px;
+    color: #000;
+    font-family: 'FontOver';
+    text-align: center;
+}
+
+/* ************************************************************************************************************************ */
+/****** section-3 ******/
+
+.section-3{
+    background: #30b41ec2;
+}
+
+.section-3-h1{
+    font-size: 40px;
+    color: #fff;
+    padding-top: 40px;
+    text-align: center;
+}
+
+/* ************************************************************************************************************************ */
+/****** section-4 ******/
+
+.section-4{
+    background: #753f019f;
+}
+
+.section-4-h1{
+    font-size: 40px;
+    color: #fff;
+    padding-top: 40px;
+    text-align: center;
+}
+
+
+/* ************************************************************************************************************************ */
+/****** section-5 ******/
+
+.section-5{
+    background: yellow;
+}
+
+.section-5-h1{
+    font-size: 40px;
+    color: #fff;
+    padding-top: 40px;
+    text-align: center;
+}
+
+/* ************************************************************************************************************************ */
+/****** section-6 ******/
+
+.section-6{
+    background: #864a06c7;
+}
+
+.section-6-h1{
+    font-size: 40px;
+    color: #fff;
+    padding-top: 40px;
+    text-align: center;
+}
+
+/* ************************************************************************************************************************ */
+/****** section-7 ******/
+
+.section-7{
+    background: green;
+}
+
+.section-7-h1{
+    font-size: 40px;
+    color: #fff;
+    padding-top: 40px;
+    text-align: center;
+}
+
+/* ************************************************************************************************************************ */
+/****** section-8 ******/
+
+.section-8{
+    background: brown;
+}
+
+.section-8-h1{
+    font-size: 40px;
+    color: #fff;
+    padding-top: 40px;
+    text-align: center;
+}
+
+.section-8-h2{
+    font-size: 30px;
+    color: #fff;
+    padding-top: 40px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* ************************************************************************************************************************ */
+/****** section-9 ******/
+
+.section-9{
+    background: lightpink;
+}
+
+.section-9-h1{
+    font-size: 40px;
+    color: #fff;
+    padding-top: 40px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+/* ************************************************************************************************************************ */
+/****** section-10 ******/
+
+.section-10{
+    background:  orange;
+}
+
+.section-10-h1{
+    font-size: 40px;
+    color: #fff;
+    padding-top: 40px;
+    text-align: center;
+}
+
+.section-10-h2{
+    margin-top: 15px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #363636;
+    font-family: 'FontOver';
+    text-align: center;
+}
+
+/* ************************************************************************************************************************ */
+/****** section-11 ******/
+
+.section-11{
+    background: green;
+}
+
+.section-11-h1{
+    font-size: 40px;
+    color: #fff;
+    padding-top: 40px;
+    text-align: center;
+}
+
+/* ************************************************************************************************************************ */
+/****** section-12 ******/
+
+.section-12{
+    background:  #753f01c7;
+}
+
+.section-12-h1{
+    font-size: 40px;
+    color: #fff;
+    padding-top: 40px;
+    text-align: center;
+}
+
+.xleb{
+   background: yellow;
+   padding: 25px;
+}
+
+.xleb-h1{
+    font-size: 20px;
+    color: #363636;
+    text-align: center;
+    font-weight: 600;
+}
+
+.xleb-p{
+    font-size: 20px;
+    color: #363636;
+    text-align: center;
+    font-weight: 600;
+}
+
+/* ************************************************************************************************************************ */
+/****** section-13 ******/
+
+.section-13{
+    background:  lightpink;
+}
+
+.section-13-h1{
+    font-size: 40px;
+    color: #fff;
+    padding-top: 40px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* ************************************************************************************************************************ */
+/****** section-14 ******/
+
+.section-14{
+    background: yellow;
+}
+
+.section-14-h1{
+    font-size: 40px;
+    color: #fff;
+    padding-top: 40px;
+    text-align: center;
+}
+
+/* ************************************************************************************************************************ */
+/****** section-15 ******/
+
+.section-15{
+    background: lightpink;
+}
+
+.section-15-h1{
+    font-size: 40px;
+    color: #fff;
+    padding-top: 40px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* ************************************************************************************************************************ */
+/****** section-16 ******/
+
+.section-16{
+    background: #753f01c7;
+}
+
+.section-16-h1{
+    font-size: 40px;
+    color: #fff;
+    padding-top: 40px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* ************************************************************************************************************************ */
+/****** section-16 ******/
+
+.section-17{
+    background: orange;
+}
+
+.section-17-h1{
+    font-size: 40px;
+    color: #fff;
+    padding-top: 40px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* ************************************************************************************************************************ */
+/****** section-18 ******/
+
+.section-18{
+    background: green;
+}
+
+.section-18-h1{
+    font-size: 40px;
+    color: #fff;
+    padding-top: 40px; 
+    text-align: center;
+}
+
+/* ************************************************************************************************************************ */
+/****** section-19 ******/
+
+.section-19{
+    background: yellow;
+}
+
+.section-19-h1{
+    font-size: 40px;
+    color: #fff;
+    padding-top: 40px;
+    text-align: center;
+}
+
+/* ************************************************************************************************************************ */
+/****** section-20 ******/
+
+.section-20{
+    background: brown;
+}
+
+.section-20-h1{
+    font-size: 40px;
+    color: #fff;
+    padding-top: 40px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* ************************************************************************************************************************ */
+/****** section-21 ******/
+
+.section-21{
+    background: lightpink;
+}
+
+.section-21-h1{
+    font-size: 40px;
+    color: #fff;
+    padding-top: 40px;
+    text-align: center;
+}
+
+/* ************************************************************************************************************************ */
+/****** section-22 ******/
+
+.section-22{
+    background:  yellow;
+}
+
+.section-22-h1{
+    font-size: 40px;
+    color: #fff;
+    padding-top: 40px;
+    text-align: center;
+}
+
+.section-22p{
+    font-size: 14px;
+    color: #fff;
+    font-family: 'FontOver';
+    text-align: center;
+}
+
+/* ************************************************************************************************************************ */
+/****** section-23 ******/
+
+.section-23{
+    background: #753f01c7;
+}
+
+.section-23-h1{
+    font-size: 40px;
+    color: #fff;
+    padding-top: 40px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.section-23-p{
+    font-size: 20px;
+    color: #fff;
+    font-family: 'FontOver';
+    text-align: center;
+}
+
+/* ************************************************************************************************************************ */
+/****** section-24******/
+
+.section-24{
+    background: green;
+}
+
+.section-24-h1{
+    font-size: 40px;
+    color: #fff;
+    padding-top: 40px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.section-24-p{
+    font-size: 20px;
+    color: #fff;
+    font-family: 'FontOver';
+    text-align: center;
+}
+
+.section-24-h3{
+    font-size: 30px;
+    color: brown;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* ************************************************************************************************************************ */
+/****** section-25******/
+
+.section-25{
+    width: 100%;
+    background: #008000af; 
+    padding: 80px;
+}
+
+.section-25-h1{
+    font-size: 35px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: 'FontOver';
+}
+
+.section-25-h2{
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: 'FontOver';
+}
+
+.section-25-p{
+    font-size: 25px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: 'FontOver';
+}
+
+/* ************************************************************************************************************************ */
+/****** footer ******/
+
+.footer{
+    width: 100%;
+    background: orange; 
+    padding: 80px;
+}
+
+.footer-h1{
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: 'FontOver';
+}
+
+.footer-h2{
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: 'FontOver';
+}
+
+.footer-h3{
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: 'FontOver';
+}
+
+.footer-h4{
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+    font-family: 'FontOver';
+}

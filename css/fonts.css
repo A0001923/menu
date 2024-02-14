@@ -1,0 +1,21 @@
+@font-face {
+	font-family: 'FontOver';
+	src: url('../fonts/FontOver.otf'); /* IE 9 Compatibility Mode */
+	
+	
+}
+@font-face {
+	font-family: 'Exo2_i';
+	src: url('../fonts/Exo2-Italic-VariableFont_wght.ttf'); /* IE 9 Compatibility Mode */
+	
+}
+@font-face {
+	font-family: 'Exo2_v';
+	src: url('../fonts/Exo2-VariableFont_wght.ttf'); /* IE 9 Compatibility Mode */
+	
+}
+@font-face {
+	font-family: 'Cyber55';
+	src: url('../fonts/Cyberpunk_RUS_BY_LYAJKA.ttf'); /* IE 9 Compatibility Mode */
+	
+}
